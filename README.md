@@ -13,10 +13,10 @@ This Python application allows you to easily convert image files to PDF format. 
 - Simple and easy-to-use GUI built with Tkinter
 
 ## Requirements:
-- **Python 3.x**
-- **Pillow** for image processing
-- **reportlab** for creating PDFs
-- **Tkinter** for the graphical user interface (GUI)
+- Python 3.x
+- Pillow for image processing
+- reportlab for creating PDFs
+- Tkinter for the graphical user interface (GUI)
 
 Ensure you have Python installed. You can download it from [python.org](https://www.python.org/).
 
